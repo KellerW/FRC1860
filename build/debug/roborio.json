@@ -1,0 +1,9 @@
+[
+  {
+    "type": "java",
+    "name": "frcJava",
+    "port": 8349,
+    "target": "169.254.117.96",
+    "project": "1860_Hatchbot_v1"
+  }
+]
